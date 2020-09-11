@@ -1,0 +1,29 @@
+
+h1 {
+    text-align: center;
+    width: 759px;
+    background-color: #A52A2A;
+    color: #ffffff;
+    font-size: 32px;
+}
+p {
+    font-size: 18px;
+    width: 759px;
+}
+footer {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 759px;
+}
+#cars {
+    text-align: center;
+    width: 759px;
+}
+#dash {
+    border: dashed;
+}
+a {
+    text-decoration: none;
+}
